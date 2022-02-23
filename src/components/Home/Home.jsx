@@ -19,7 +19,7 @@ export default class Home extends Component
     return(
       <>
       <section className='text-center avatar-sec py-5'>
-        <img className='w-25' src={notimage}></img>
+        <img className='w-25' src={notimage} alt='fff'></img>
         <h1 className='text-white my-4'>START REACT</h1>
         <div className="divider-custom">
                     <div className="divider-custom-line"></div>
