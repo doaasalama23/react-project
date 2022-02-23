@@ -19,7 +19,7 @@ export default class App extends Component
       <Navbar/>
         
           <Routes>
-          <Route path='/' element={ <About/>}>
+          <Route path='/' element={ <Home/>}>
             </Route>
             <Route path='home' element={ <Home />}>
             </Route>
