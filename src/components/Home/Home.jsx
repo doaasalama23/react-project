@@ -37,22 +37,22 @@ export default class Home extends Component
         </div>
           <div className='row'>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style1}></img>
+              <img className='w-100 my-3 nn' src={style1} alt="rr"></img>
             </div>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style2}></img>
+              <img className='w-100 my-3 nn' src={style2} alt="rr"></img>
             </div>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style3}></img>
+              <img className='w-100 my-3 nn' src={style3} alt="rr"></img>
             </div>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style4}></img>
+              <img className='w-100 my-3 nn' src={style4} alt="rr"></img>
             </div>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style5}></img>
+              <img className='w-100 my-3 nn' src={style5} alt="rr"></img>
             </div>
             <div className='col-md-4'>
-              <img className='w-100 my-3 nn' src={style6}></img>
+              <img className='w-100 my-3 nn' src={style6} alt="rr"></img>
             </div>
           </div>
         </div>
